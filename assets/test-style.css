@@ -1,0 +1,66 @@
+
+#app{
+    margin: 10px;
+    padding: 20px 20px;
+    width: 100%;
+    background-color: #fff;
+    color:#000;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.2) 0 0 5px;
+    text-align: center;
+}
+form{
+    font-family: "cairo",Sans-Serif;
+    padding: 5px;
+
+}
+h2,h3,h4{
+    font-family: "cairo",Sans-Serif;
+    line-height: 40px;
+    padding: 5px;
+}
+#test-image{
+  margin-bottom: 20px;  
+}
+#start-button{
+    color:#fff;
+    background-color: #28C28D;
+    padding: 20px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#start-button:hover{
+    color:#28C28D;
+    background-color: #fff;
+    border-style: solid;
+    border-width: thin;
+}
+#restart-button{
+    color:#fff;
+    background-color: #28C28D;
+    padding: 20PX 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#restart-button:hover{
+    color:#28C28D;
+    background-color: #fff;
+    border-style: solid;
+    border-width: thin;
+}
+
+.radio-label {
+    width: 40%;
+    padding: 30px 20px;
+    font-size: 24px;
+        display: inline-block;
+        margin-right: 10px; 
+}
+.yes:hover{
+    background-color: #28C28D;
+    color: #fff;
+}
+.no:hover{
+    background-color: #F24141;
+    color: #fff;
+}
